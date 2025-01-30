@@ -1,2 +1,2 @@
 # LogiSim
-The logic circuits i built when learning digital technology at Uni
+The logic circuits I built when learning digital technology at Uni
